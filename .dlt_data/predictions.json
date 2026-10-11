@@ -6019,8 +6019,107 @@
         "history_match": []
       }
     ],
-    "review": null,
-    "actual": null
+    "review": [
+      {
+        "idx": 1,
+        "front": [
+          1,
+          3,
+          4,
+          7,
+          28
+        ],
+        "back": [
+          6,
+          11
+        ],
+        "hit_front": 0,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 2,
+        "front": [
+          8,
+          9,
+          18,
+          21,
+          29
+        ],
+        "back": [
+          1,
+          8
+        ],
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 3,
+        "front": [
+          2,
+          5,
+          8,
+          18,
+          28
+        ],
+        "back": [
+          1,
+          9
+        ],
+        "hit_front": 0,
+        "hit_back": 0,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 4,
+        "front": [
+          5,
+          8,
+          10,
+          27,
+          28
+        ],
+        "back": [
+          3,
+          6
+        ],
+        "hit_front": 0,
+        "hit_back": 1,
+        "prize": "未中奖"
+      },
+      {
+        "idx": 5,
+        "front": [
+          2,
+          4,
+          7,
+          20,
+          25
+        ],
+        "back": [
+          3,
+          5
+        ],
+        "hit_front": 1,
+        "hit_back": 0,
+        "prize": "未中奖"
+      }
+    ],
+    "actual": {
+      "period": "26115",
+      "front": [
+        12,
+        20,
+        32,
+        33,
+        35
+      ],
+      "back": [
+        6,
+        7
+      ]
+    }
   },
   {
     "generated_at": "2026-08-19T17:49:14.808655",

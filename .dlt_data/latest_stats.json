@@ -1,27 +1,27 @@
 {
   "window": 30,
-  "total_history": 2912,
+  "total_history": 2933,
   "date_filtered": false,
   "start_date": "",
   "end_date": "",
-  "latest_period": "26094",
-  "earliest_period": "26065",
+  "latest_period": "26115",
+  "earliest_period": "26086",
   "front_freq": [
     {
       "number": 1,
-      "count": 3
+      "count": 4
     },
     {
       "number": 2,
-      "count": 1
+      "count": 4
     },
     {
       "number": 3,
-      "count": 5
+      "count": 8
     },
     {
       "number": 4,
-      "count": 7
+      "count": 3
     },
     {
       "number": 5,
@@ -29,79 +29,79 @@
     },
     {
       "number": 6,
-      "count": 3
+      "count": 4
     },
     {
       "number": 7,
-      "count": 2
+      "count": 6
     },
     {
       "number": 8,
-      "count": 3
+      "count": 4
     },
     {
       "number": 9,
-      "count": 2
+      "count": 5
     },
     {
       "number": 10,
-      "count": 7
+      "count": 10
     },
     {
       "number": 11,
-      "count": 4
-    },
-    {
-      "number": 12,
-      "count": 6
-    },
-    {
-      "number": 13,
-      "count": 6
-    },
-    {
-      "number": 14,
-      "count": 6
-    },
-    {
-      "number": 15,
-      "count": 5
-    },
-    {
-      "number": 16,
       "count": 7
     },
     {
-      "number": 17,
-      "count": 2
+      "number": 12,
+      "count": 7
     },
     {
-      "number": 18,
+      "number": 13,
+      "count": 0
+    },
+    {
+      "number": 14,
+      "count": 9
+    },
+    {
+      "number": 15,
       "count": 4
     },
     {
-      "number": 19,
+      "number": 16,
+      "count": 4
+    },
+    {
+      "number": 17,
       "count": 6
+    },
+    {
+      "number": 18,
+      "count": 3
+    },
+    {
+      "number": 19,
+      "count": 3
     },
     {
       "number": 20,
-      "count": 2
+      "count": 3
     },
     {
       "number": 21,
-      "count": 5
+      "count": 3
     },
     {
       "number": 22,
-      "count": 5
+      "count": 4
     },
     {
       "number": 23,
-      "count": 5
+      "count": 0
     },
     {
       "number": 24,
-      "count": 6
+      "count": 4
     },
     {
       "number": 25,
@@ -109,23 +109,23 @@
     },
     {
       "number": 26,
-      "count": 8
-    },
-    {
-      "number": 27,
       "count": 6
     },
     {
-      "number": 28,
+      "number": 27,
       "count": 4
+    },
+    {
+      "number": 28,
+      "count": 2
     },
     {
       "number": 29,
-      "count": 4
+      "count": 5
     },
     {
       "number": 30,
-      "count": 3
+      "count": 2
     },
     {
       "number": 31,
@@ -133,11 +133,11 @@
     },
     {
       "number": 32,
-      "count": 5
+      "count": 3
     },
     {
       "number": 33,
-      "count": 4
+      "count": 6
     },
     {
       "number": 34,
@@ -145,17 +145,17 @@
     },
     {
       "number": 35,
-      "count": 2
+      "count": 5
     }
   ],
   "back_freq": [
     {
       "number": 1,
-      "count": 3
+      "count": 6
     },
     {
       "number": 2,
-      "count": 7
+      "count": 4
     },
     {
       "number": 3,
@@ -163,11 +163,11 @@
     },
     {
       "number": 4,
-      "count": 5
+      "count": 7
     },
     {
       "number": 5,
-      "count": 6
+      "count": 3
     },
     {
       "number": 6,
@@ -175,23 +175,23 @@
     },
     {
       "number": 7,
-      "count": 7
+      "count": 6
     },
     {
       "number": 8,
-      "count": 3
+      "count": 4
     },
     {
       "number": 9,
-      "count": 5
+      "count": 11
     },
     {
       "number": 10,
-      "count": 5
+      "count": 4
     },
     {
       "number": 11,
-      "count": 7
+      "count": 3
     },
     {
       "number": 12,
@@ -200,83 +200,79 @@
   ],
   "front_hot": [
     {
-      "number": 26,
-      "count": 8
-    },
-    {
-      "number": 4,
-      "count": 7
-    },
-    {
       "number": 10,
-      "count": 7
+      "count": 10
     },
     {
-      "number": 16,
-      "count": 7
+      "number": 14,
+      "count": 9
     },
     {
-      "number": 12,
-      "count": 6
-    },
-    {
-      "number": 13,
-      "count": 6
-    },
-    {
-      "number": 19,
-      "count": 6
-    },
-    {
-      "number": 24,
-      "count": 6
-    }
-  ],
-  "back_hot": [
-    {
-      "number": 7,
-      "count": 7
+      "number": 3,
+      "count": 8
     },
     {
       "number": 11,
       "count": 7
     },
     {
-      "number": 2,
+      "number": 12,
       "count": 7
     },
     {
-      "number": 5,
+      "number": 7,
       "count": 6
     },
     {
+      "number": 26,
+      "count": 6
+    },
+    {
+      "number": 17,
+      "count": 6
+    }
+  ],
+  "back_hot": [
+    {
+      "number": 9,
+      "count": 11
+    },
+    {
       "number": 4,
+      "count": 7
+    },
+    {
+      "number": 1,
+      "count": 6
+    },
+    {
+      "number": 7,
+      "count": 6
+    },
+    {
+      "number": 12,
       "count": 5
     }
   ],
   "front_cold": [
     {
-      "number": 2,
-      "count": 1
+      "number": 13,
+      "count": 0
+    },
+    {
+      "number": 23,
+      "count": 0
     },
     {
       "number": 31,
       "count": 1
     },
     {
-      "number": 7,
+      "number": 28,
       "count": 2
     },
     {
-      "number": 9,
-      "count": 2
-    },
-    {
-      "number": 17,
-      "count": 2
-    },
-    {
-      "number": 20,
+      "number": 30,
       "count": 2
     },
     {
@@ -284,48 +280,54 @@
       "count": 2
     },
     {
-      "number": 35,
-      "count": 2
+      "number": 4,
+      "count": 3
+    },
+    {
+      "number": 18,
+      "count": 3
     }
   ],
   "back_cold": [
-    {
-      "number": 1,
-      "count": 3
-    },
     {
       "number": 3,
       "count": 3
     },
     {
-      "number": 8,
+      "number": 5,
       "count": 3
+    },
+    {
+      "number": 11,
+      "count": 3
+    },
+    {
+      "number": 2,
+      "count": 4
     },
     {
       "number": 6,
       "count": 4
-    },
-    {
-      "number": 4,
-      "count": 5
     }
   ],
   "odd_even_dist": {
     "0": 1,
     "1": 4,
-    "2": 11,
+    "2": 9,
     "3": 11,
-    "4": 3
+    "4": 4,
+    "5": 1
   },
-  "front_sum_avg": 88.8,
-  "back_sum_avg": 13.5,
-  "front_span_avg": 22.8,
-  "consecutive_ratio": 0.5,
+  "front_sum_avg": 81.3,
+  "back_sum_avg": 13.2,
+  "front_span_avg": 22.6,
+  "consecutive_ratio": 0.47,
   "big_small_dist": {
-    "1": 4,
+    "0": 2,
+    "1": 8,
     "2": 10,
-    "3": 12,
-    "4": 4
+    "3": 8,
+    "4": 2
   },
-  "computed_at": "2026-08-20T00:05:47.104645"
+  "computed_at": "2026-10-11T19:24:49.871868"
 }
